@@ -1,4 +1,4 @@
 # sample-repo
 this is my first repository
 <br>
-author- shatakshi patil
+author- shatakshi Anil patil
